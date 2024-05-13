@@ -1,0 +1,5 @@
+plugins {
+    id 'java'
+    id 'com.netflix.nebula.release' version '19.0.7'
+    id "com.netflix.nebula.info" version "13.1.1"
+}
